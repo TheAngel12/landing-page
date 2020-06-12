@@ -19,4 +19,4 @@ The file inside this one is:
 
 1. app.js
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+
